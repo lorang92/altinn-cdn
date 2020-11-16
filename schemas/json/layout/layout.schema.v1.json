@@ -89,7 +89,7 @@
       "fileUploadComponent": {
         "properties": {
           "maxFileSizeInMB": {
-            "title": "Maximum file size in MB",
+            "title": "Maximum file size",
             "description": "Sets the maximum file size allowed in megabytes.",
             "type": "integer",
             "minimum": 0
